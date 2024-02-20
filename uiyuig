@@ -1,0 +1,3 @@
+max_num_inbound_peers=400 
+max_num_outbound_peers=100
+max_connections=70
